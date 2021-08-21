@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cb925938ef994446f62ac716a45bc934a493426efc91ee23b9b736697becdd21"
+            "sha256": "f8b9e0306ea29c56a9112dd868b11e2b7dbc7d29bcc8fe4660ee5ed58f107e74"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -39,6 +39,13 @@
             "markers": "python_version >= '3'",
             "version": "==3.2"
         },
+        "pytelegrambotapi": {
+            "hashes": [
+                "sha256:afdd887fff42a963f13d09a1f4f5fd24aef08f4b8a594f2ac11e0a29022f1518"
+            ],
+            "index": "pypi",
+            "version": "==3.8.3"
+        },
         "requests": {
             "hashes": [
                 "sha256:6c1246513ecd5ecd4528a0906f910e8f0f9c6b8ec72030dc9fd154dc1a6efd24",
@@ -46,14 +53,6 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
             "version": "==2.26.0"
-        },
-        "telebot": {
-            "hashes": [
-                "sha256:1d692ee3c2f07c5caacb1a82f0b59e40cef84f58be84435be9c8ce667dee94a6",
-                "sha256:717f08f0cbb2b3bbba73e8b36cca466345b751d44e938235eaa24139073f3265"
-            ],
-            "index": "pypi",
-            "version": "==0.0.4"
         },
         "urllib3": {
             "hashes": [
